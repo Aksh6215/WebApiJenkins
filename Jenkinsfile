@@ -4,7 +4,6 @@ pipeline {
         AZURE_CREDENTIALS_ID = 'jenkins-pipeline-sp'
         RESOURCE_GROUP = 'akshat_rg'
         APP_SERVICE_NAME = 'akshat-app'
-        AZURE_SUBSCRIPTION_ID = CRE
     }
 
     stages {
